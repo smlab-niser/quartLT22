@@ -1,0 +1,6 @@
+env/
+__pycache__/
+checks.ipynb
+.ipynb_checkpoints/
+quaternion_lth.egg-info/
+images/
