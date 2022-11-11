@@ -1,0 +1,17 @@
+wheel
+numpy
+scipy
+kaggle
+gdown
+wandb
+torchtext
+torchgeometry
+torchmetrics
+configparser
+flake8
+prettytable
+pytorch-ignite
+jupyter
+pandas
+matplotlib
+seaborn
